@@ -1,0 +1,15 @@
+{
+  "name": "2-time-lock-puzzle",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "crypto-puzzle": "^5.0.2"
+  }
+}
